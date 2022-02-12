@@ -1,0 +1,39 @@
+PODS:
+  - EasyPermissionX/Base (0.0.2)
+  - Flutter (1.0.0)
+  - flutter_easy_permission (0.0.1):
+    - EasyPermissionX/Base
+    - Flutter
+  - flutter_scankit (0.0.1):
+    - Flutter
+    - ScanKitFrameWork (~> 1.0.2.300)
+  - ScanKitFrameWork (1.0.2.300)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_easy_permission (from `.symlinks/plugins/flutter_easy_permission/ios`)
+  - flutter_scankit (from `.symlinks/plugins/flutter_scankit/ios`)
+
+SPEC REPOS:
+  trunk:
+    - EasyPermissionX
+    - ScanKitFrameWork
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_easy_permission:
+    :path: ".symlinks/plugins/flutter_easy_permission/ios"
+  flutter_scankit:
+    :path: ".symlinks/plugins/flutter_scankit/ios"
+
+SPEC CHECKSUMS:
+  EasyPermissionX: ff4c438f6ee80488f873b4cb921e32d982523067
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  flutter_easy_permission: c67b480f134ff748c069cac2d645f873de2b7880
+  flutter_scankit: 16936d86b3de3f83c122e763f4c24c5da214c78f
+  ScanKitFrameWork: 0ad578f3db0ef9b64dd0f533d10d10a52ce93c80
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.2
